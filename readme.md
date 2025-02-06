@@ -1,4 +1,6 @@
 - ## wordpressを作成しよう!
+
+  ![wordpress-logo-stacked-rgb.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3904736/3e3b7e18-cae8-b3e1-ebc9-f0b14f0496d5.png)
 - ### mentaユーザ作成する（リモートマシン）
    ```
      [root@vagrant vagrant]# useradd menta
